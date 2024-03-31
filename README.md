@@ -1,2 +1,2 @@
 # options-trading
-A collection of my options trading algorithms!
+An archive of my automated options trading algorithms!
