@@ -1,9 +1,6 @@
 # options-trading
 An archive of my automated options trading algorithms!
 
-DEPLOYMENT:
-I've tailored each strategy specifically for the Tradier Brokerage API
-
 STRATEGIES:
 1. Gamma Scalping //
 Gamma scalping is a strategy used by options traders to manage the risk of their portfolio and capitalize on the volatility of the underlying asset. The idea is to adjust the delta of an option portfolio to zero by buying or selling shares of the underlying asset as the market moves. This strategy profits from the changes in the underlying price, as the adjustments made help in capturing the difference between the realized volatility and the implied volatility priced into the options.
