@@ -1,5 +1,5 @@
 # options-trading
-An archive of my automated options trading algorithms!
+Single-Script Option Trading Algorithms that can be executed locally in a jupyter notebook!
 
 STRATEGIES:
 1. Gamma Scalping //
